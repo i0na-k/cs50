@@ -18,10 +18,10 @@ int main(int argc, string argv[])
             {
                 printf ("%c", toupper (s[i + 1]));
             }
-                }
-
-        {
-            printf ("\n");
         }
+
+    {
+         printf ("\n");
+    }
     
 }
